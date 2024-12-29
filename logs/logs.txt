@@ -1,0 +1,3 @@
+INFO: dummy info log 
+WARNING: dummy warning log 
+ERROR: dummy error log
